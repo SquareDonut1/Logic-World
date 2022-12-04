@@ -238,7 +238,7 @@ TestGate:
 
 
 
-    logicCode: GG.TestGate
+    logicCode: thisisaid.TestGate
     placingRules:
         offsetDimensions:
             x: 2
@@ -271,6 +271,5 @@ TestGate:
 
 
 
-          
-          
+
     

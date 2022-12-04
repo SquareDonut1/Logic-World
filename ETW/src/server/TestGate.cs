@@ -3,7 +3,7 @@ using LogicAPI.Server;
 using LogicLog;
 using LogicWorld.Server.Circuitry;
 
-namespace GG
+namespace thisisaid
 {
     public class TestGate : LogicComponent<TestGate.IData>
     {
