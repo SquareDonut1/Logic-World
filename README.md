@@ -1,6 +1,8 @@
 # Logic-World 
 ram that you can read and wright to at the same time at differant addresses
+
 and new 8 bit Storage block
+
 the 8 bit Storage block
 ![Screenshot 2023-01-06 182002](https://user-images.githubusercontent.com/99207282/211121071-2eb4ac8f-8185-44e1-b560-32038e86c5c4.png)
 
