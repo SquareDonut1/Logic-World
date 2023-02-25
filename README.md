@@ -1,4 +1,4 @@
-# Logic-World 
+# ram
 ram that you can read and wright to at the same time at differant addresses
 
 and new 8 bit Storage block
